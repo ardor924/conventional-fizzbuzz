@@ -6,7 +6,7 @@
 
 ## Prerequisites
 
-- python==3.11.0
+- python==3.9.10
 - fastapi
 
 ## How to start
